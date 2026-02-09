@@ -181,13 +181,6 @@
     "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/fexcore_241214.wcp"
   },
   
- {
-    "type": "FEXCore",
-    "verName": "Fix_NFS_Games",
-    "verCode": "1",
-    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/Fex_Fix_NFS_Games.wcp"
-  },
-  
   {
     "type": "FEXCore",
     "verName": "2505",
@@ -206,7 +199,7 @@
     "type": "FEXCore",
     "verName": "2508.1",
     "verCode": "1",
-    "remoteUrl": "https://github.com/ziad9267/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
+    "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/raw/refs/heads/main/FEXCore/2508.1.wcp"
   },
 
   {
