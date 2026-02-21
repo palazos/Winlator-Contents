@@ -22,7 +22,7 @@
   
   {
     "type": "Wine",
-    "verName": "wine-9.20-x86-64",
+    "verName": "wine-9.20-x86_64",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/wine-9.20.wcp"
   },
