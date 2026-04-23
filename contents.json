@@ -1,6 +1,12 @@
 [
   {
     "type": "Wine",
+    "verName": "proton-wine-11.0-arm64ec",
+    "verCode": "1",
+    "remoteUrl": "https://cdn.discordapp.com/attachments/1495646247862927460/1496616744440303779/proton-wine-11.0-arm64ec-20260422.1559.wcp.xz?ex=69ea8875&is=69e936f5&hm=27b27b4016ae5ee84d210b5b81a1673cf31a428193f515eb1ba1b2a636eee0e3&"
+  },
+  {
+    "type": "Wine",
     "verName": "proton-10-arm64ec",
     "verCode": "1",
     "remoteUrl": "https://github.com/StevenMXZ/Winlator-Contents/releases/download/1.0/proton-10-arm64ec.wcp.xz"
